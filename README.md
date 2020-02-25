@@ -1,2 +1,2 @@
 # Sudoko-solver
-Sudoko solver in python
+Sudoko solver developed using python unside jyputer
